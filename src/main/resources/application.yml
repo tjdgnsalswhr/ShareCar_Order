@@ -70,4 +70,4 @@ spring:
           
 api:
   payment:
-    url: http://Payment:8080
+    url: http://sharecar-payment:8080
